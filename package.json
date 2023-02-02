@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "bullmq": "^1.8.7",
-    "just-scripts": "^0.41.0"
+    "just-scripts": "^2.1.0"
   }
 }
